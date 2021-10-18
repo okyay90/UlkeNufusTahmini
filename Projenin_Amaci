@@ -4,4 +4,4 @@ ABD Sayım Bürosu'nun Uluslararası Veri Kümesi, 1950'den bu yana ülke nüfus
 Ek olarak, doğurganlık oranları, doğum oranları, ölüm oranları ve göç oranları gibi nitelikler veriseti içersinde mevcuttur.
 
 Projemizde Python ile arayüz tasarlayıp ülke ve yıl seçimine göre ülklerin nüfuslarının tahmin edilmesi amaçlanmıştır. 
-Tahmin işlemi için Lineer Regresyo yöntemi kullanılacaktır.
+Tahmin işlemi için Lineer Regresyon yöntemi kullanılacaktır.
