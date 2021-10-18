@@ -3,4 +3,5 @@ ABD Sayım Bürosu'nun Uluslararası Veri Kümesi, 1950'den bu yana ülke nüfus
 Özellikle, veri seti doğumda yaş ve cinsiyet tayinine göre ayrılmış yıl ortası nüfus rakamlarını içerir.
 Ek olarak, doğurganlık oranları, doğum oranları, ölüm oranları ve göç oranları gibi nitelikler veriseti içersinde mevcuttur.
 
-Projemizde Python ile arayüz tasarlayıp ülke ve yıl seçimine göre ülklerin nüfuslarının tahmin edilmesi amaçlanmıştır. Tahmin işlemi için Lineer Regresyo yöntemi kullanılacaktır.
+Projemizde Python ile arayüz tasarlayıp ülke ve yıl seçimine göre ülklerin nüfuslarının tahmin edilmesi amaçlanmıştır. 
+Tahmin işlemi için Lineer Regresyo yöntemi kullanılacaktır.
